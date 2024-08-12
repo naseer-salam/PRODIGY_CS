@@ -18,11 +18,6 @@ This is a simple Python application with a graphical user interface (GUI) that a
     cd PRODIGY_CS_01
     ```
 
-2. **Install the required dependencies:**
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. **Run the application:**
